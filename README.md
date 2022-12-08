@@ -21,8 +21,7 @@ It only takes a minute.
 Most Linux distributions also have LÖVE in their software repository.
 Search for "love" or "love2d".
 
-If you have LÖVE installed simply double-click the .love file to run the game.
-If you retrieved the source code directly, just zip the whole folder and change the extension to .love.
+Retrieve this source code directly, just zip the whole folder and change the extension to .love.
 
 ## How to play
 
