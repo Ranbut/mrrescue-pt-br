@@ -10,4 +10,4 @@ See http://creativecommons.org/licenses/by-sa/3.0/deed.en_US for more info.
 
 All source code for Mr. Rescue with the exception of the modules slam, AnAL and TSerial, is licensed under the zlib license. Check the LICENSE file for more info.
 
-₢ Tangram Games 2016
+© Tangram Games 2016
